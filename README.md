@@ -1,1 +1,1 @@
-# MERNEcommerceStore
+# MERN Ecommerce Store
